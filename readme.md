@@ -12,5 +12,5 @@
 </div>
 <div>
   <h3>Similiar Project</h3>
-  <a href="https://github.com/CallahanVenures/GSP-Pro/">Google Search Parser</a>
+  <a href="https://github.com/CallahanVentures/GSP-Pro/">Google Search Parser</a>
 </div>
